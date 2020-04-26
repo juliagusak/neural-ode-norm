@@ -13,9 +13,9 @@ pytorch
 ## Models
 We consider neural ODE based models, which are build from ResNets by replacing ResNet blocks with ODE blocks (only blocks that do not reduce spacial dimentions are replaced).
 
-For example, ODENet4 and ODENet10 architectures have the following form:\
+For example, ODENet4 and ODENet10 architectures have the following form:
 - ODENet4:
-```conv -> norm -> activation -> ODE block -> avgpool -> fc```\
+```conv -> norm -> activation -> ODE block -> avgpool -> fc```
 - ODENet10:
 ```conv -> norm -> activation -> ResNet block -> ODE block -> ResNet block -> ODE block -> avgpool ->fc```
 
