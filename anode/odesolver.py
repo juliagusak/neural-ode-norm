@@ -16,7 +16,7 @@
 # along with ANODE.  If not, see <http://www.gnu.org/licenses/>.
 # *
 from .scheme import Euler, RK2, RK4
-from interpolated_torchdiffeq._impl.dopri5_old import Dopri5Solver as Dopri5SolverOld
+#from interpolated_torchdiffeq._impl.dopri5_old import Dopri5Solver as Dopri5SolverOld
 
 import torch
 
