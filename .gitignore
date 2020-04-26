@@ -1,0 +1,8 @@
+*~
+*.log
+data/*
+*.pyc
+events/*
+.ipynb_checkpoints/
+.ipynb_checkpoints/*
+save/*
