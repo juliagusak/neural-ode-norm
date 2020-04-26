@@ -43,6 +43,7 @@ Solver type as well as the number of solver steps are hyperparameters.
 
 
 ## Train ODENet
+Training procedure is performed as in [ANODE paper](https://arxiv.org/pdf/1902.10298.pdf)
 1. Create a config file with  model, solver and training hypermarameters\
 (see, for example ```./config/odenet4_bn-ln_euler-32.cfg```, which is used to train ODENet4 with BN after the first convolutional layer, LN inside ODE block and Euler solver with 32 steps) 
 2. Inside  ```./run_training.sh```  modify pathes for
