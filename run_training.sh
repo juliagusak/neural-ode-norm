@@ -1,7 +1,7 @@
 #!/bin/bash
 neural_ode_norm_dir="/workspace/home/jgusak/neural-ode-norm"
 
-data_root="$neural_ode_norm_dir/data/datasets/cifar10/"
+data_root="$neural_ode_norm_dir/data/"
 save_dir="$neural_ode_norm_dir/save/"
 train_file="$neural_ode_norm_dir/train.py"
 
