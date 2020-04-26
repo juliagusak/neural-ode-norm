@@ -53,3 +53,14 @@ Solver type as well as the number of solver steps are hyperparameters.
 
 3. Run training:
 ```bash run_training.sh ```
+
+## Reference
+If you found this code useful, we appreciate  if you  cite the following paper
+```
+@article{gusak2020towards,
+  title={Towards Understanding Normalization in Neural ODEs},
+  author={Gusak, Julia and Markeeva, Larisa and Daulbaev, Talgat and Katrutsa, Alexandr and Cichocki, Andrzej and Oseledets, Ivan},
+  journal={arXiv preprint arXiv:2004.09222},
+  year={2020}
+}
+```
