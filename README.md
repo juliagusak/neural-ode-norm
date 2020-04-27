@@ -60,8 +60,10 @@ Please, follow the [link](https://drive.google.com/drive/folders/1fm8jpXvA9DyOlz
 - ODENet4, BN-WN, tarined with Euler solver with n = 2, 8 or 32 steps
 
 ## Selected results
-- ODENet10 ![ODENet10](misc/odenet10.png)
-- ODENet4 ![ODENet4](misc/odenet4.png)
+- ODENet10 
+![ODENet10](misc/odenet10.png)
+- ODENet4 
+![ODENet4](misc/odenet4.png)
 
 ## Reference
 If you found this code useful, we appreciate  if you  cite the following paper
