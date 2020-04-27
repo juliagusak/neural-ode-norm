@@ -54,6 +54,11 @@ Training procedure is performed as in [ANODE paper](https://arxiv.org/pdf/1902.1
 3. Run training:
 ```bash run_training.sh ```
 
+## Pre-trained models
+Please, follow the [link](https://drive.google.com/drive/folders/1fm8jpXvA9DyOlzLfZ7k18ahZ0SRRDVix?usp=sharing) to download pre-trained models, namely
+- ODENet4, BN-LN, tarined with Euler solver with n = 2, 8 or 32 steps
+- ODENet4, BN-WN, tarined with Euler solver with n = 2, 8 or 32 steps
+
 ## Reference
 If you found this code useful, we appreciate  if you  cite the following paper
 ```
