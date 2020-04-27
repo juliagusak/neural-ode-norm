@@ -61,8 +61,11 @@ Please, follow the [link](https://drive.google.com/drive/folders/1fm8jpXvA9DyOlz
 
 ## Selected results
 - ODENet10 
+
 ![ODENet10](misc/odenet10.png)
+
 - ODENet4 
+
 ![ODENet4](misc/odenet4.png)
 
 ## Reference
